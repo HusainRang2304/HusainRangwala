@@ -34,3 +34,7 @@ I am excited about connecting with like-minded professionals, industry experts, 
 *LinkedIn: linkedin.com/in/rangwalahusain23 | Email: rangwalahusain23@gmail.com | Phone: 9892307253*
 
 Looking forward to connecting and exploring new possibilities together!
+
+<html>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66c303f7837d383f4afc7ee7?variant=dark" alt="roadmap.sh"/></a>
+</html>
